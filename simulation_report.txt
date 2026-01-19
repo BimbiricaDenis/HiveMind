@@ -1,0 +1,8 @@
+=== SIMULATION REPORT ===
+Total Profit: 41920
+Packages Delivered On Time: 0
+ Packages Delivered Late: 96
+Agents Lost: 0
+Packages Pending Delivery: 4
+Penalities Applied for Late Deliveries(-200 x 4): -800
+Final Profit after Penalties: 41120
